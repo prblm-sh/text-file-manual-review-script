@@ -1,5 +1,7 @@
 # Text File Manual Review Helper Script
-Linux Only
+NOTE: Linux Systems Only
+
+
 A quick and dirty python script to assist with manual review of text files.
 The script lists all files in the current working directory (non-recursively),
 when prompted, enter the path (full or relative to CWD) you would like to copy files too.
